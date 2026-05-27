@@ -1,0 +1,11 @@
+[project]
+name = "next-agent-internship-agentic-ai-projects"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai-agents>=0.17.4",
+    "python-dotenv>=1.2.2",
+    "streamlit>=1.57.0",
+]
